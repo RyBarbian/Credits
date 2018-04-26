@@ -1,0 +1,24 @@
+obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
+ clientversion.h /home/ryan/Desktop/calm/src/leveldb/include/leveldb/db.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/iterator.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/slice.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/status.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/options.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/write_batch.h util.h \
+ uint256.h netbase.h compat.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/env.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/cache.h \
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/filter_policy.h \
+ /home/ryan/Desktop/calm/src/leveldb/helpers/memenv/memenv.h
+leveldb.cpp leveldb.h serialize.h allocators.h version.h :
+ clientversion.h /home/ryan/Desktop/calm/src/leveldb/include/leveldb/db.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/iterator.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/slice.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/status.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/options.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/write_batch.h util.h :
+ uint256.h netbase.h compat.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/env.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/cache.h :
+ /home/ryan/Desktop/calm/src/leveldb/include/leveldb/filter_policy.h :
+ /home/ryan/Desktop/calm/src/leveldb/helpers/memenv/memenv.h :
